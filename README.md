@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aleksei Spiridon
 
-[![Followers](https://img.shields.io/github/followers/alexeysp11?style=social)](https://github.com/alexeysp11?tab=followers) | [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](@alexeysp11)
+[![Followers](https://img.shields.io/github/followers/alexeysp11?style=social)](https://github.com/alexeysp11?tab=followers) | [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@alexeysp11)
 
 ## 🚀 About me
 
