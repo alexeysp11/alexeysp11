@@ -11,7 +11,7 @@
 ## 📚 Projects
 
 - [**workflow-lib**](https://github.com/alexeysp11/workflow-lib)
-    - **Description**: A comprehensive library designed to streamline and accelerate development of ERP systems. It provides a wide range of functionalities including reusable classes, data models, and independent projects. The library addresses the common challenges of building complex ERP applications by offering pre-built components for tasks like data validation, workflow management, and reporting.
+    - **Description**: A comprehensive library designed to streamline and accelerate development of ERP systems. It provides a wide range of functionalities including reusable classes, data models, and independent projects.
     - **Key Technologies**: C#, .NET Core, EF Core, PostgreSQL.
     - **Status**: Currently being actively developed.
 
