@@ -4,7 +4,7 @@
 
 ## 🚀 About me
 
-- I am a C# developer with 4.5 years of experience.
+- I am a C# developer with 5 years of experience.
 - Passionate about creating desktop and web applications.
 - I strive for constant learning new technologies.
 
@@ -12,7 +12,7 @@
 
 - [**velocipede-utils**](https://github.com/alexeysp11/velocipede-utils)
     - **Description**: A comprehensive library designed to streamline and accelerate development of ERP systems. It provides a wide range of functionalities including reusable classes, data models, and independent projects.
-    - **Key Technologies**: C#, .NET Core, EF Core, PostgreSQL.
+    - **Key Technologies**: C#, .NET Core; EF Core, Dapper; PostgreSQL; Docker.
     - **Status**: Currently being actively developed.
 
 - [**sqlviewer**](https://github.com/alexeysp11/sqlviewer)
