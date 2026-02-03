@@ -16,8 +16,8 @@
     - **Status**: Currently being actively developed.
 
 - [**sqlviewer**](https://github.com/alexeysp11/sqlviewer)
-    - **Description**: A multilingual WPF app that provides a user-friendly interface for interacting with different RDBMS and performing various database operations.
-    - **Key Technologies**: C#, .NET Core, WPF, SQLite, PostgreSQL, MS SQL.
+    - **Description**: A distributed system for managing heterogeneous data sources (e.g. databases).
+    - **Key Technologies**: C#; ASP.NET Core, WPF; EF Core; SQLite, PostgreSQL, MS SQL.
     - **Status**: Not currently being developed.
 
 - [**delivery-service-csharp**](https://github.com/alexeysp11/delivery-service-csharp)
