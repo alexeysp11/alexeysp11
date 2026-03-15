@@ -4,23 +4,31 @@
 
 ## 🚀 About me
 
-- I am a C# developer with 5 years of experience.
-- Passionate about creating desktop and web applications.
-- I strive for constant learning new technologies.
+- **Backend Developer** with 5 years of experience in the **.NET ecosystem**.
+- **Architectural focus**: I build scalable platforms and reusable core libraries.
+- **Microservices enthusiast**: Experienced in designing distributed systems with a focus on performance and reliability.
+- **Problem Solver**: Passionate about automating development workflows and reducing boilerplate.
 
-## 📚 Projects
+## 🛠️ Tech Stack & Expertise
 
-- [**velocipede-utils**](https://github.com/alexeysp11/velocipede-utils)
-    - **Description**: A comprehensive library designed to streamline and accelerate development of ERP systems. It provides a wide range of functionalities including reusable classes, data models, and independent projects.
-    - **Key Technologies**: C#, .NET Core; EF Core, Dapper; PostgreSQL; Docker.
-    - **Status**: Currently being actively developed.
+- **Languages & Frameworks**: C# (.NET 8+), ASP.NET Core, Entity Framework Core, Dapper.
+- **Architecture**: Microservices, gRPC, REST, Monorepo management.
+- **Infrastructure & Databases**: PostgreSQL, MS SQL, SQLite, Docker & Docker Compose.
+- **Observability (In Progress)**: Prometheus, Grafana, Jaeger.
 
-- [**sqlviewer**](https://github.com/alexeysp11/sqlviewer)
-    - **Description**: A distributed system for managing heterogeneous data sources (e.g. databases).
-    - **Key Technologies**: C#; ASP.NET Core, WPF; EF Core; SQLite, PostgreSQL, MS SQL.
-    - **Status**: Not currently being developed.
+## 📚 Featured Projects
 
-- [**delivery-service-csharp**](https://github.com/alexeysp11/delivery-service-csharp)
-    - **Description**: An ERP platform enabling users to order and receive goods. The goal of this project is to create a scalable and robust system that utilizes microservices architecture for independent deployment and management. Communication between services will be based on a combination of service discovery and BPM approaches.
-    - **Key Technologies**: C#, .NET Core, ASP.NET Core, gRPC, RabbitMQ.
-    - **Status**: There is currently no active work, but it will be further developed in the future.
+### [**velocipede-utils**](https://github.com/alexeysp11/velocipede-utils) — *Enterprise Core Framework*
+- **Description**: A comprehensive monorepo containing reusable libraries, data models, and architectural patterns designed to accelerate ERP and Web development.
+- **Why it matters**: Demonstrates my ability to create internal SDKs, manage complex dependencies, and standardize backend development across different projects.
+- **Tech**: .NET Core, EF Core, Dapper, PostgreSQL, Docker.
+
+### [**sqlviewer**](https://github.com/alexeysp11/sqlviewer) — *Microservice Data Gateway*
+- **Description**: A distributed system for managing heterogeneous data sources (PostgreSQL, MS SQL, SQLite) through a unified API.
+- **Key Features**: Microservice architecture using gRPC for internal communication, automatic migrations, and a built-in sandbox for instant testing.
+- **Tech**: ASP.NET Core (Web API), gRPC, WPF, Docker, PostgreSQL.
+
+### [**delivery-service-csharp**](https://github.com/alexeysp11/delivery-service-csharp) — *System Design Case Study*
+- **Description**: A detailed architectural blueprint for a scalable ERP delivery platform. 
+- **Focus**: This project serves as a showcase of my **System Design** skills, covering service discovery, event-driven communication (RabbitMQ), and microservice orchestration logic.
+- **Status**: Architectural design / Documentation focus.
