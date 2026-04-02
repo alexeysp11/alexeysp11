@@ -26,7 +26,7 @@
 ### [**sqlviewer**](https://github.com/alexeysp11/sqlviewer) — *Microservice Data Gateway*
 - **Description**: A distributed system for managing heterogeneous data sources (PostgreSQL, MS SQL, SQLite) through a unified API.
 - **Key Features**: Microservice architecture using gRPC for internal communication, automatic migrations, and a built-in sandbox for instant testing.
-- **Tech**: ASP.NET Core (Web API), gRPC, WPF, Docker, PostgreSQL.
+- **Tech**: ASP.NET Core (Web API), gRPC, WPF, Docker, PostgreSQL, Kafka, Redis.
 
 ### [**delivery-service-csharp**](https://github.com/alexeysp11/delivery-service-csharp) — *System Design Case Study*
 - **Description**: A detailed architectural blueprint for a scalable ERP delivery platform. 
